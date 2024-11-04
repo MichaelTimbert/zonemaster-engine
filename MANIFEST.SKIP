@@ -80,3 +80,4 @@
 
 # Avoid MANIFEST test
 t/manifest.t
+shell.nix
